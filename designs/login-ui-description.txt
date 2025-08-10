@@ -1,0 +1,33 @@
+LOGIN UI MOCKUP DESCRIPTION
+============================
+
+This describes the contents of login-ui.png (mock design file)
+
+LAYOUT:
+- Clean, modern login form centered on page
+- Company logo at top
+- Two input fields: Username/Email and Password
+- "Remember Me" checkbox
+- Primary "Sign In" button
+- "Forgot Password?" link below
+- Footer with "Don't have an account? Sign up"
+
+DESIGN ELEMENTS:
+- Minimalist white background
+- Blue accent color (#0066CC) for primary button
+- Gray placeholders and secondary text
+- Subtle shadows and rounded corners
+- Responsive design for mobile and desktop
+
+ACCESSIBILITY:
+- High contrast text
+- Proper form labels
+- Keyboard navigation support
+- Screen reader friendly
+- Focus indicators on interactive elements
+
+SECURITY CONSIDERATIONS:
+- Password field properly masked
+- HTTPS enforcement indicated
+- No auto-complete on sensitive fields
+- Session timeout warnings

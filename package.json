@@ -1,0 +1,23 @@
+{
+  "name": "task-attachments",
+  "description": "Attach multiple file types to tasks for comprehensive analysis",
+  "version": "1.0.0",
+  "author": "Berke Kiran",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ai", "agent", "task", "attachments", "files", "analysis", "astreus"],
+  "dependencies": {
+    "@astreus-ai/astreus": "^0.5.20",
+    "dotenv": "^17.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
