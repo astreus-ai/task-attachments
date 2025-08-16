@@ -22,23 +22,23 @@ async function main() {
     attachments: [
       { 
         type: 'code', 
-        path: '/src/auth/login.ts', 
+        path: './src/auth/login.ts', 
         name: 'Login Controller',
         language: 'typescript' 
       },
       { 
         type: 'image', 
-        path: '/designs/login-ui.png', 
+        path: './designs/login-ui.png', 
         name: 'Login UI Mockup' 
       },
       { 
         type: 'json', 
-        path: '/package.json', 
+        path: './package.json', 
         name: 'Dependencies' 
       },
       { 
         type: 'markdown', 
-        path: '/docs/api.md', 
+        path: './docs/api.md', 
         name: 'API Documentation' 
       }
     ],
